@@ -1,2 +1,2 @@
-# RecyclerViewWithDataBase
+# NewsApiAPP
 Android App
