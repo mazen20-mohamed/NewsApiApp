@@ -45,6 +45,5 @@ class NewsAdapter(var articles: Array<Articles>?,private val click:ItemClickList
             .load(word?.urlToImage)
             .into(holder.ivPhoto)
     }
-
     override fun getItemCount(): Int = articles?.size ?: 0
 }
